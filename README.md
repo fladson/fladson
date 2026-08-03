@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :brazil: Brazilian web developer currently living in :pretzel: Berlin
-- :package: Working at [**@artsy**](https://github.com/artsy)
+- :package: Working at [**@1K5-TECH**](https://github.com/1K5-TECH)
 - :steam_locomotive: Mostly working with Rails-based applications
 - :sparkles: Passionate about observability, dev experience and data visualization
 - :heart: I love nature, animals, cooking, music and documentaries
